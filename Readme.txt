@@ -1,0 +1,1 @@
+Example of multiple postings to different actions and the way model binder works.
